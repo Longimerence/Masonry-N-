@@ -10,7 +10,7 @@
 #import "Masonry.h"
 
 @interface UITableViewCell (CLmasorny)
-
+ 
 -(void)CLLastButton:(UIButton *)lastButton andCLButton:(UIButton *)button andCLMargin:(NSInteger)intes andCLNum:(NSInteger)num andCLI:(NSInteger)i;
 
 @end
